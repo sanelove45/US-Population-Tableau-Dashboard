@@ -15,6 +15,4 @@ Also I have used 2 KPI for:
 
 And all charts are connected to each other so we can filter out the Volcano Eruption Data By using Country and Region Filters.
 
-====
 Thank you
-====
